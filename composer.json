@@ -1,12 +1,7 @@
 {
     "name": "molamil/json-api",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "require": {
 	"composer/installers": "v1.0.6"
-    },
-    "extra": {
-        "installer-paths": {
-            "content/plugins/{$name}/": ["type:wordpress-plugin"]
-        }
     }
 }

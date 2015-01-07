@@ -1,5 +1,5 @@
 {
-    "name": "molamil/molamil-cms/WP-API",
+    "name": "molamil/json-api",
     "type": "wordpress-plugin",
     "require": {
 	"composer/installers": "v1.0.6"
